@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 ## Counting Sort
@@ -49,13 +51,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
