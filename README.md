@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
