@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
