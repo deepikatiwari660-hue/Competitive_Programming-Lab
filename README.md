@@ -17,9 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/2073-time-needed-to-buy-tickets) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
