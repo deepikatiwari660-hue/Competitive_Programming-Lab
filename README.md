@@ -10,4 +10,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/2073-time-needed-to-buy-tickets) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
