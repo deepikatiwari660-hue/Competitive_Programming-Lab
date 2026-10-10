@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
