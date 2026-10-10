@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -31,4 +32,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0933-number-of-recent-calls) |
+## Hash Table
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
+## Sorting
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
