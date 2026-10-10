@@ -79,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
