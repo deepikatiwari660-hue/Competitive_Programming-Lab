@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0075-sort-colors) |
+| [0416-partition-equal-subset-sum](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0746-min-cost-climbing-stairs) |
 | [1122-relative-sort-array](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0070-climbing-stairs) |
+| [0416-partition-equal-subset-sum](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0020-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
