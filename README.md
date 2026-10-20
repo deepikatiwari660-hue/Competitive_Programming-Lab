@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/deepikatiwari660-hue/Competitive_Programming-Lab/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
